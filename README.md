@@ -24,9 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/Arilalex96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arilalex96" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Arialex96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arialex96" height="30" width="40" /></a>
-<a href="https://fb.com/aril.alex69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aril alex" height="30" width="40" /></a>
+<a href="https://web.facebook.com/arilalex09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aril alex" height="30" width="40" /></a>
 <a href="https://instagram.com/@Arilalex96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arilalex96" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Arilalex96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aril alex" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
