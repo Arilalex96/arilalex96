@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/Arilalex96" target="blank"><img src="https://img.shields.io/twitter/follow/arilalex96?logo=twitter&style=for-the-badge" alt="arilalex96" /></a> </p>
 
-- 🔭 I’m currently working on [HobbyMate](https://arilalex96.github.io/hobbymate.github.io/)
+- 🔭 I’m currently working on [HobbyMate](https://hobbymateapp.000webhostapp.com/)
 
 - 🌱 I’m currently learning 😎
 
-- 👯 I’m looking to collaborate on [HobbyMate](https://arilalex96.github.io/hobbymate.github.io/)
+- 👯 I’m looking to collaborate on [HobbyMate](https://hobbymateapp.000webhostapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arilalex96](https://github.com/Arilalex96)
 
